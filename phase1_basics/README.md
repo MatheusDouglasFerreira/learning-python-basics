@@ -22,3 +22,4 @@ for i in range(1, 4):
 
 for client in clients:
     print(f"Name: {client['name']}, Age: {client['age']}")
+
